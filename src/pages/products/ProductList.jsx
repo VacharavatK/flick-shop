@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+
 import Navbar from "../../components/navbar/Navbar";
 import Products from "../../components/products/Products";
 import Footer from "../../components/footer/Footer";

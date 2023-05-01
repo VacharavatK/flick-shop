@@ -1,9 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-import Navbar from "../../components/navbar/Navbar";
-import Footer from "../../components/footer/Footer";
+
 import RemoveIcon from "@mui/icons-material/Remove";
 import AddIcon from "@mui/icons-material/Add";
+
+import Navbar from "../../components/navbar/Navbar";
+import Footer from "../../components/footer/Footer";
 
 const ProductsContainer = styled.div``;
 
